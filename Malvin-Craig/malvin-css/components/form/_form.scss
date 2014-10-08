@@ -22,12 +22,8 @@ form {
     text-shadow: 0 0.1rem 0.1rem white;
   }
   ol li {
-    background: #b9cf6a;
     background: rgba(255,255,255,.4);
-    border-color: #e3ebc3;
-    border-color: rgba(255,255,255,.6);
-    border-style: solid;
-    border-width: 0.2rem;
+    border: 0.2rem solid rgba(255,255,255,.6);
     -moz-border-radius: 0.5rem;
     -webkit-border-radius: 0.5rem;
     border-radius: 0.5rem;
@@ -36,13 +32,13 @@ form {
     padding: 0.5rem 1rem;
     margin-bottom: 0.2rem;
   }
-    label {
+  label {
     float: left;
     font-size: 2rem;
     width: 20rem;
     height: 2rem;
   }
-    button {
+  button {
     display: inline-block;
     background: #606060 ;
     border: none;

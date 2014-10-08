@@ -1,7 +1,5 @@
-@import "canvas";
-@import "paragraphs";
-@import "top-nav";
-@import "video";
-
+@import "canvas/manifest";
+@import "paragraphs/manifest";
+@import "header/manifest";
+@import "video/manifest";
 @import "photo-capture/manifest";
-
