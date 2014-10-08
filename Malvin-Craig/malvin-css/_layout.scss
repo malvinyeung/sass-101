@@ -1,0 +1,12 @@
+html {
+  font-size: 10px;
+  background-color: #39B4BF;
+  body, h1, form, fieldset, legend, ol, li &{
+    margin: 0 auto;
+    padding: 0;
+  }
+}
+
+.video, header {
+  text-align: center;
+}
