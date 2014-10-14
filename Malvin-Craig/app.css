@@ -10,8 +10,8 @@ body {
   text-align: center; }
 
 html {
-  font-size: 10px;
-  background-color: #39B4BF; }
+  font-size: 30px;
+  background-color: white; }
   html body, html h1, html form, html fieldset, html legend, html ol, li html {
     margin: 0 auto;
     padding: 0; }
