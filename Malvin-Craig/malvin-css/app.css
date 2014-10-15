@@ -1,5 +1,7 @@
 * {
-  list-style: none; }
+  list-style: none;
+  text-align: center;
+}
 
 body {
   color: black;
@@ -92,5 +94,9 @@ header {
 video {
   border-radius: 2rem;
   margin-bottom: 3rem; }
+
+#txt {
+  font-size: 30px;
+}
 
 /*# sourceMappingURL=app.css.map */
